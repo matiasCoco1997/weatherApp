@@ -1,8 +1,4 @@
-import { useState } from "react";
-
-export default function Sidebar() {
-  const [location, setLocation] = useState("");
-
+export default function Sidebar({ location, setLocation }) {
   const searchWeather = (e) => {
     e.preventDefault();
     console.log(location);

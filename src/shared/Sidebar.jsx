@@ -23,7 +23,9 @@ export default function Sidebar() {
         >
           Perfil LinkedIn
         </a>
-        <p className="text-center">28/03/2025</p>
+        <p className="text-center font-semibold">
+          Inicio de proyecto - 28/03/2025
+        </p>
       </div>
     </nav>
   );

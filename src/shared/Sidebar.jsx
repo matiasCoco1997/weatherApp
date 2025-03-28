@@ -3,7 +3,6 @@ export default function Sidebar() {
     <nav className="bg-amber-500 text-white p-4 h-full md:min-w-[300px] flex flex-col justify-between">
       <h1 className="text-2xl text-center pb-8">Weather App</h1>
       <ul className="flex-1">
-        Lista de opciones
         <li className="py-2">opciones</li>
         <li className="py-2">opciones</li>
         <li className="py-2">opciones</li>
